@@ -1,1 +1,1 @@
-# COMP598 My Little Pony Dialogue Analysis
+# My Little Pony Dialogue Analysis
